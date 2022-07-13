@@ -1,5 +1,7 @@
 <h1 align="center">COVID-19 Tracker</h1>
 
+![Screenshot](https://raw.githubusercontent.com/sathishkumar-io/covid-19-tracker-js/main/assets/img/screenshot.png)
+
 This Tracker will helps to get the current counting of COVID-19 cases, recovers and deaths.
 
 ## API
